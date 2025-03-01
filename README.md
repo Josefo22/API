@@ -48,8 +48,5 @@ URL: http://localhost:3000/api/login
 Descripción: Permite realizar el inicio de sesión en la aplicación. El cuerpo de la solicitud debe incluir los campos "usuario" y "clave" en formato JSON.
 Estos endpoints te permitirán interactuar con la aplicación para obtener información de usuarios, registrar nuevos usuarios y realizar el inicio de sesión. Asegúrate de utilizar los métodos y las URL correspondientes según tus necesidades.
 
-![uno](https://github.com/mzrtcode/EVIDENCIA_API/assets/71569136/4f79fad5-7df1-4c49-9ed0-914ab43c18ee)
-![dos](https://github.com/mzrtcode/EVIDENCIA_API/assets/71569136/8e9f26aa-da9f-4a7b-90e4-ef7f86853810)
-![tres](https://github.com/mzrtcode/EVIDENCIA_API/assets/71569136/01a8675a-45f8-4392-9ce4-086985a53bb4)
 
 
